@@ -11,9 +11,6 @@ b) média do número de filhos;
 c) maior salário;
 d) percentual de pessoas com salário até R$100,00.
 
-2- Desenvolver um sistema que efetue a soma de todos os números ímpares que são
-múltiplos de três e que se encontram no conjunto dos números de 1 até 500.
-
 ENQUANTO
 
 1- Elaborar um programa que efetue a leitura sucessiva de valores numéricos e
@@ -21,6 +18,10 @@ apresente no final o total do somatório, a média e o total de valores lidos. O
 deve fazer as leituras dos valores enquanto o usuário estiver fornecendo valores
 positivos. Ou seja, o programa deve parar quando o usuário fornecer um valor
 negativo.
+
+2- Obtenha um número digitado pelo usuário e repita a operação de multiplicar ele por
+três (imprimindo o novo valor) até que ele seja maior do que 100. Ex.: se o usuário
+digita 5, deveremos observar na tela a seguinte sequência: 5 15 45 135.
 
 FAÇA...ENQUANTO
 
